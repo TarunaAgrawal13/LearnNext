@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?guitar"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with easy piano lessons designed for beginners.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?piano"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced chords, solos, and fingerstyle techniques.",
+      "price": 129.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?electric-guitar"
+    },
+    {
+      "id": 4,
+      "title": "Drums Masterclass",
+      "slug": "drums-masterclass",
+      "description": "Learn rhythm, timing, and professional drumming skills.",
+      "price": 109.99,
+      "instructor": "Chris Brown",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?drums"
+    },
+    {
+      "id": 5,
+      "title": "Violin Essentials",
+      "slug": "violin-essentials",
+      "description": "Build a strong foundation in violin playing techniques.",
+      "price": 94.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?violin"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory Basics",
+      "slug": "music-theory-basics",
+      "description": "Understand notes, scales, and harmony in music.",
+      "price": 79.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?music-theory"
+    },
+    {
+      "id": 7,
+      "title": "Keyboard for Beginners",
+      "slug": "keyboard-for-beginners",
+      "description": "Learn keyboard fundamentals and play your first songs.",
+      "price": 85.99,
+      "instructor": "Sophia Martinez",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?keyboard"
+    },
+    {
+      "id": 8,
+      "title": "Singing & Vocal Training",
+      "slug": "singing-vocal-training",
+      "description": "Improve your voice with breathing and pitch techniques.",
+      "price": 92.5,
+      "instructor": "Olivia Taylor",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?singing"
+    },
+    {
+      "id": 9,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create beats and electronic tracks using modern DAWs.",
+      "price": 139.99,
+      "instructor": "Liam Anderson",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?music-production"
+    },
+    {
+      "id": 10,
+      "title": "Ukulele for Beginners",
+      "slug": "ukulele-for-beginners",
+      "description": "A fun and easy introduction to playing the ukulele.",
+      "price": 69.99,
+      "instructor": "Noah Thomas",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?ukulele"
+    },
+    {
+      "id": 11,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Learn how to improvise and play jazz confidently.",
+      "price": 119.99,
+      "instructor": "Ethan White",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?jazz"
+    },
+    {
+      "id": 12,
+      "title": "Rock Guitar Mastery",
+      "slug": "rock-guitar-mastery",
+      "description": "Play iconic rock riffs and solos like a pro.",
+      "price": 134.99,
+      "instructor": "Lucas Harris",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?rock-guitar"
+    },
+    {
+      "id": 13,
+      "title": "Flute Basics",
+      "slug": "flute-basics",
+      "description": "Learn the fundamentals of flute playing step by step.",
+      "price": 74.99,
+      "instructor": "Ava Clark",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?flute"
+    },
+    {
+      "id": 14,
+      "title": "Hip Hop Beat Making",
+      "slug": "hip-hop-beat-making",
+      "description": "Create hip hop beats using industry-standard tools.",
+      "price": 124.99,
+      "instructor": "James Lewis",
+      "isFeatured": true,
+      "image": "https://source.unsplash.com/featured/?hip-hop"
+    },
+    {
+      "id": 15,
+      "title": "Classical Piano Advanced",
+      "slug": "classical-piano-advanced",
+      "description": "Dive into classical compositions and advanced piano skills.",
+      "price": 149.99,
+      "instructor": "Isabella Walker",
+      "isFeatured": false,
+      "image": "https://source.unsplash.com/featured/?classical-piano"
+    }
+  ]
+}
