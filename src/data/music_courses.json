@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?guitar"
+      "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 89.99,
       "instructor": "Jane Smith",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?piano"
+      "image": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 129.99,
       "instructor": "Mike Johnson",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?electric-guitar"
+      "image": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 109.99,
       "instructor": "Chris Brown",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?drums"
+      "image": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 94.99,
       "instructor": "Emily Davis",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?violin"
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 79.99,
       "instructor": "David Wilson",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?music-theory"
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 85.99,
       "instructor": "Sophia Martinez",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?keyboard"
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 92.5,
       "instructor": "Olivia Taylor",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?singing"
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 139.99,
       "instructor": "Liam Anderson",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?music-production"
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 69.99,
       "instructor": "Noah Thomas",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?ukulele"
+      "image": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "price": 119.99,
       "instructor": "Ethan White",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?jazz"
+      "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 134.99,
       "instructor": "Lucas Harris",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?rock-guitar"
+      "image": "https://images.unsplash.com/photo-1507838153414-b4b713384a76?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "price": 74.99,
       "instructor": "Ava Clark",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?flute"
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "price": 124.99,
       "instructor": "James Lewis",
       "isFeatured": true,
-      "image": "https://source.unsplash.com/featured/?hip-hop"
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop"
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "price": 149.99,
       "instructor": "Isabella Walker",
       "isFeatured": false,
-      "image": "https://source.unsplash.com/featured/?classical-piano"
+      "image": "https://images.unsplash.com/photo-1514119412350-e174d90d280e?q=80&w=1200&auto=format&fit=crop"
     }
   ]
 }
